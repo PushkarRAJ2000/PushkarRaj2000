@@ -2,7 +2,7 @@
 
 💡 MCA Graduate (2022–2025) | Aspiring AI Developer  
 💻 Skilled in Python, Java, HTML/CSS, JavaScript  
-📈 Actively building projects like Online Voting System & Portfolio Website  
+📈 Actively working as Machine_Learning_Intern @Algonive  
 📬 Connect with me:  
 - 📧 Email: pushkarrajmay2000@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pushkarrajmay2000)
